@@ -1,1 +1,1 @@
-# covid19-rki-archive
+# covid19-data-archive
